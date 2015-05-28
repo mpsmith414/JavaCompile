@@ -1,0 +1,1 @@
+Gitbash link = C:\Users\Public\Desktop\Applications\Programming\Git\Git bash
