@@ -17,5 +17,5 @@ To contribute to the source code you should first familiarize yourself with the 
 
 1. go to the Notepad++ homepage
 2. download the plug-in template
-3. download the PluginDefinition.cpp and PluginDefinition.h files and exchange them with the files that come with the template
+3. download the PluginDefinition.cpp and PluginDefinition.h files from this repository under the src folder and exchange them with the files that come with the template
 4. add your code
