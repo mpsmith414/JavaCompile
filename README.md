@@ -12,3 +12,10 @@ First close Notepad++, then:
 That is all. Now when you open Notepad++ you shoulder have all the PESMU features located
 under the Plugins->PESMU menu. You can access the beginners guide directly from here to learn
 about all of the features provided by the plugin and how to use them.
+
+To contribute to the source code you should first familiarize yourself with the implementation of a Notepad++ plugin, then:
+
+1. go to the Notepad++ homepage
+2. download the plug-in template
+3. download the PluginDefinition.cpp and PluginDefinition.h files and exchange them with the files that come with the template
+4. add your code
